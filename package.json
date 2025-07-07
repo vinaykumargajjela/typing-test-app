@@ -2,7 +2,7 @@
   "name": "typing-test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-username.github.io/calculator-app",
+  "homepage": "https://vinaykumargajjela.github.io/typing-test-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
