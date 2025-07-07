@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/calculator-app/static/css/main.96211ab5.css",
-    "main.js": "/calculator-app/static/js/main.af5ebb48.js",
-    "static/js/453.024b3e45.chunk.js": "/calculator-app/static/js/453.024b3e45.chunk.js",
-    "index.html": "/calculator-app/index.html",
-    "main.96211ab5.css.map": "/calculator-app/static/css/main.96211ab5.css.map",
-    "main.af5ebb48.js.map": "/calculator-app/static/js/main.af5ebb48.js.map",
-    "453.024b3e45.chunk.js.map": "/calculator-app/static/js/453.024b3e45.chunk.js.map"
+    "main.css": "/typing-test-app/static/css/main.96211ab5.css",
+    "main.js": "/typing-test-app/static/js/main.0996bad9.js",
+    "static/js/453.024b3e45.chunk.js": "/typing-test-app/static/js/453.024b3e45.chunk.js",
+    "index.html": "/typing-test-app/index.html",
+    "main.96211ab5.css.map": "/typing-test-app/static/css/main.96211ab5.css.map",
+    "main.0996bad9.js.map": "/typing-test-app/static/js/main.0996bad9.js.map",
+    "453.024b3e45.chunk.js.map": "/typing-test-app/static/js/453.024b3e45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96211ab5.css",
-    "static/js/main.af5ebb48.js"
+    "static/js/main.0996bad9.js"
   ]
 }
